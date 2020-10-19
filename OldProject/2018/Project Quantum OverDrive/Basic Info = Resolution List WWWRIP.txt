@@ -1,0 +1,160 @@
+Skip to main content
+
+Screen resolution? Aspect ratio? What do 720p, 1080p, QHD, 4K and 8K mean?
+
+TUTORIAL by Codrut Neagu published on 05/20/2016
+Screen
+In days gone by, screen resolution (also called display resolution) wasn’t much of an issue. Windows came with a few preset options and to get higher resolution or more colors (or both) you would install a driver for your video card. As time went on, you could choose better video cards and better monitors as well. Today we have lots of options when it comes to displays, their quality and the supported resolutions. In this article I would like to take you through a bit of history and explain all the important concepts, including common acronyms like 1080p or 4K.
+
+
+It all started with IBM & CGA
+
+The color graphics technology was first developed by IBM. CGA was first, followed by EGA and VGA - color graphics adapter, enhanced graphics adapter, video graphics array. Regardless of the capability of your monitor, you’d still have to choose from one of the few options available through your graphics card’s drivers. For the sake of nostalgia, here’s a look at a once well-known CGA display.
+
+screen, resolution, display, aspect, ratio, size, 1080p, 720p, 1080i, 1440p, 4K, 8K
+
+With the advent of high definition video and the increased popularity of the 16:9 aspect ratio (we’ll explain more about aspect ratios in a bit) selecting a screen resolution is not the simple affair it once was. However, this also means that there are a lot more options to choose from, with something to suit almost everyone’s preferences. Let’s look at what today’s terminology is, and what it means:
+
+The screen is what by what?
+
+I am sure some of you already know that the term "resolution" isn’t correct when it’s used to refer to the number of pixels on a screen. That says nothing about how densely the pixels are clustered. "Resolution" is technically the number of pixels per unit of area, rather than the total number of pixels. Here, we’ll be using the term as it’s commonly understood, rather than the absolutely technologically correct usage.
+
+Since the beginning, resolution has been described (accurately or not) by the number of pixels arranged horizontally and vertically on a monitor, for example 640 x 480 = 307200 pixels. The choices available were determined by the capability of the video card, and they differed from manufacturer to manufacturer.
+
+The resolutions built into Windows were very limited, so if you didn’t have the driver for your video card you’d be stuck with the lower-resolution screen that Windows provided. If you’ve watched Windows Setup or installed a newer version of a video driver, you may have seen the 640 x 480 low resolution screen for a moment or two. It was ugly even on CGA screens, but that was the Windows default.
+
+As monitor quality improved, Windows began offering a few more built-in options, but the burden was still mostly on the graphics card manufacturers, especially if you wanted a really high resolution display. The more recent versions of Windows can detect the default screen resolution for your monitor and graphics card and adjust accordingly. This doesn’t mean that what Windows chooses is always the best option, but it will work, and you can change it if you wish, after you see what it looks like. If you need guidance on doing that, check this tutorial: Change your display's screen resolution and make text and icons bigger.
+
+screen, resolution, display, aspect, ratio, size, 1080p, 720p, 1080i, 1440p, 4K, 8K
+
+Mind your P’s and I’s
+
+You may have seen the screen resolution described as something like 720p or 1080i. What does that mean?
+
+To begin with, the letters tell you how the picture is "painted" on the monitor. A "p" stands for progressive , and an "i" stands for interlaced .
+
+The interlaced scan is a holdover from television and from early CRT monitors. The monitor or TV screen has lines of pixels arranged horizontally across it. The lines were fairly easy to see if you got up close to an older monitor or TV, but nowadays the pixels on the screen are so small that they are very hard to see even with magnification. The monitor’s electronics "paint" each screen line by line, too quickly for the eye to see. An interlaced display paints all the odd lines first, then all the even lines.
+
+
+Since the screen is being painted in alternate lines, flicker has always been a problem with interlaced scans. Manufacturers have tried to overcome this problem in various ways. The most common way is to increase the number of times a complete screen is painted in a second, which is called the refresh rate. The most common refresh rate was 60 times per second, which was acceptable for most people, but it could be pushed a bit higher to get rid of the flicker that some people perceived.
+
+As people moved away from the older CRT displays, the terminology changed from refresh rate to frame rate , because of the difference in the way the LED monitor works. The frame rate is the speed with which the monitor displays each separate frame of data. The most recent versions of Windows set the framerate at 60 Hertz, or 60 cycles per second, and LED screens do not flicker. And the system changed from interlaced scan to progressive scan because the new digital displays were so much faster. In a progressive scan, the lines are painted on the screen in sequence rather than first the odd lines and then the even lines. If you want to translate 1080p for example, is used for displays that are characterized by 1080 horizontal lines of vertical resolution and a progressive scan.
+
+There’s a rather eye-boggling illustration of the differences between progressive and interlaced scans on Wikipedia here: Progressive scan. For another interesting history lessons, read also Interlaced video.
+
+What about the numbers: 720p, 1080p, 1440p, 4K and 8K?
+
+When high-definition TVs became the norm, manufacturers developed a shorthand to explain their display resolution. The most common numbers you will see are 720p, 1080p and 2160p or 4K. As we’ve seen, the "p" and "i" tell you whether it’s a progressive-scan or interlaced-scan display. And these shorthand numbers are sometimes used to describe computer monitors as well, even though in general a monitor is capable of a higher-definition display than a TV. The number always refers to the number of horizontal lines on the display.
+
+Here’s how the shorthand translates:
+
+720p = 1280 x 720 - is usually known as HD or “HD Ready” resolution
+1080p = 1920 x 1080 - is usually known as FHD or “Full HD” resolution
+1440p = 2560 x 1440 - commonly known as QHD or Quad HD resolution, and typically seen on gaming monitors and on high-end smartphones. 1440p is four times the resolution of 720p HD or “HD ready”.
+2160p = 3840 x 2160 - commonly known as 4K, UHD or Ultra HD resolution. It’s a very large display resolution and it’s found on high-end TVs and monitors. 2160p is called 4K because it offers four times the resolution of 1080p FHD or “Full HD”.
+4320p = 7680 x 4320 - is known as 8K and it offers 16 times more pixels than the regular 1080p FHD or “Full HD” resolution. Although you’re not going to see TVs or computer monitors with this resolution too soon, you can test whether your computer can render such a large amount of data. Here’s an 8K video sample:
+ 
+
+
+
+ 
+
+What is the Aspect Ratio?
+
+At the beginning we mentioned the term aspect ratio. This was originally used in motion pictures, indicating how wide the picture was in relation to its height. Movies were originally in 4:3 aspect ratio, and this carried over into television and early computer displays. Motion picture aspect ratio changed much more quickly to a wider screen, which meant that when movies were shown on TV they had to be cropped or the image manipulated in other ways to fit the TV screen.
+
+As display technology improved, TV and monitor manufacturers began to move toward widescreen displays as well. Originally "widescreen" referred to anything wider than the common 4:3 display, but it quickly came to mean a 16:10 ratio and later 16:9. Nowadays, nearly all computer monitors and TVs are only available in widescreen, and TV broadcasts and web pages have adapted to match.
+
+Until 2010, 16:10 was the most popular aspect ratio for widescreen computer displays. But with the rise in popularity of high definition televisions, which were using high definition resolutions such as 720p and 1080p and made this terms synonyms with high-definition, 16:9 has become the high-definition standard aspect ratio.Today, finding 16:10 displays is almost impossible.
+
+Depending on the aspect ratio of your display, you are able to use only resolutions that are specific to its width and height. Some of the most common resolutions that can be used for each aspect ratio are the following:
+
+4:3 aspect ratio resolutions: 640×480, 800×600, 960×720, 1024×768, 1280×960, 1400×1050, 1440×1080 , 1600×1200, 1856×1392, 1920×1440, and 2048×1536.
+16:10 aspect ratio resolutions: - 1280×800, 1440×900, 1680×1050, 1920×1200 and 2560×1600.
+16:9 aspect ratio resolutions: 1024×576, 1152×648, 1280×720, 1366×768, 1600×900, 1920×1080, 2560×1440 and 3840×2160.
+How does the size of the screen affect resolution?
+
+Although a 4:3 TV’s display can be adjusted to show black bars at the top and bottom of the screen while a widescreen movie or show is being displayed, this doesn’t make sense with a monitor, so you’ll find that Windows will not even offer you the widescreen display as a choice. You can watch movies with black bars as if you were watching a TV screen, but this is done by your media player.
+
+The most important thing is not the monitor size, but its ability to display the higher resolution images. The higher you set the resolution, the smaller the images on the screen will be, and there comes a point at which the text on the screen becomes so small it’s not readable. On a larger monitor it is possible to push the resolution very high indeed, but if that monitor’s pixel density is not up to par, you won’t get the maximum possible resolution before the image becomes unreadable. In many cases the monitor will not display anything at all, if you tell Windows to use a resolution the monitor cannot handle. In other words, don’t expect miracles out of a cheap monitor. When it comes to high-definition displays, you definitely get what you pay for.
+
+Conclusion
+
+If you are not very technical, it is very likely that you are confused by so many technicalities. Hopefully this article has managed to help in your understanding of the most important characteristics of a display: aspect ratio, resolutions or type. If you have any questions on this subject, don’t hesitate to ask us in the comments form below.
+
+Discover more: Productivity, Tutorials, Hardware and Sound, Windows
+Add new comment
+View comments
+
+RELATED ARTICLES
+Color Profile
+What is and how to install a color profile for your monitor, in Windows
+
+Screen color calibration
+Why and how to calibrate a monitor in Windows
+
+Screen
+Change your display's screen resolution and make text and icons bigger
+
+Smartphone screen
+Simple questions: What is PPI and does it matter?
+
+SEARCH CONTENT
+Search Terms
+Enter search terms
+ 
+SUBSCRIPTION OPTIONS
+Provide an email address in order to subscribe to our newsletter. The email address is not made public.
+
+Email address
+email address
+ Subscribe
+Other subscription options
+
+RSS FeedFacebookGoogle PlusTwitter
+POPULAR ARTICLES
+Sign in
+How to login to Windows 10 with a PIN or picture password (create and sign in)
+TUTORIAL by Ciprian Adrian Rusen published on 09/15/2017
+Many people hate passwords because they are long, hard to remember, they have to be complex and so on. To keep your security at a decent level and make it faster for you to sign in, Microsoft has created several authentication methods for Windows 10. You can use your user account password, and you can also create a short PIN to sign in or a picture password on which you draw quick gestures. Here’s how to create a PIN and a picture password, and how to use them to log into Windows 10:
+TP-Link Archer C1200
+Reviewing the TP-Link Archer C1200: The new king of affordable routers?
+REVIEW by Ciprian Adrian Rusen published on 09/13/2017
+The market of affordable wireless routers has seen many devices launched recently. While they are not the fastest nor the most complex, they tend to offer all the basics people need, at unbeatable prices. One of the newest routers in this niche is TP-Link Archer C1200. This WiFi router comes at a low price that anyone can afford and offers modern hardware and support for the latest mainstream wireless technologies. Is it a suitable choice for networking your home? Read this review and find out:
+Private browsing
+How to create shortcuts to start your web browser InPrivate or Incognito
+TUTORIAL by Ciprian Adrian Rusen published on 09/12/2017
+If you don’t want your web browser to keep your browser history, your cookies and site data, temporary files, searches and the information you entered in forms, then you have to use a form of private browsing. Google Chrome calls this mode Incognito, Firefox and Opera call it Private Browsing, while Internet Explorer and Microsoft Edge call it InPrivate. Read this guide and learn how to create a shortcut that automatically starts your web browser using its private browsing mode:
+Calling
+How to create a shortcut to fast dial or direct message a contact, in Android
+TUTORIAL by Ciprian Adrian Rusen published on 09/08/2017
+Do you need a shortcut on your Android smartphone to direct dial or direct message a person? You may need to quickly call a co-worker, or your wife, or your father. This can be done with ease if someone shows you how. The procedure involved is not intuitive unless you have done it before or you have seen someone else doing it. That’s why, to help you out, we have created this guide that shows how to add a direct dial shortcut on your Android smartphone:
+
+CATEGORIES
+Productivity
+Entertainment
+Security
+Smartphone
+Smarthome
+Health
+OTHER LINKS
+Search
+Subscription options
+About us
+Contact
+Terms and conditions
+OUR BOOKS
+Windows 10 At Work For Dummies
+ IC3 Global Standard 4
+ Windows 8.1 Step by Step
+ Dream It, Do It, Live It
+SUBSCRIPTION OPTIONS
+Provide an email address in order to subscribe to our newsletter. The email address is not made public.
+
+Email address
+email address
+ Subscribe
+Other subscription options
+
+RSS FeedFacebookGoogle PlusTwitter
+For optimal navigation, this site uses cookies. By continuing your browsing you agree with our use of cookies. More info I agree
